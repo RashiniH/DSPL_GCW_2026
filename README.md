@@ -1,2 +1,1 @@
-# DSPL_GCW
-Machine learning models for hotel revenue prediction
+# Machine learning models for hotel revenue prediction
